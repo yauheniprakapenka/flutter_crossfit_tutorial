@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "552c0336ad09487640ddc3933e3345bd"
+build_time: [1630946635, 156264000]
+inputs:
+  "/Users/yauheni.prakapenka/Documents/Github/onboarding2/macos/Runner/MainFlutterWindow.swift": [1615579368, 0]
+  "/Users/yauheni.prakapenka/Documents/Github/onboarding2/macos/Runner/AppDelegate.swift": [1615579368, 0]
+  "/Users/yauheni.prakapenka/Documents/Github/onboarding2/macos/Flutter/GeneratedPluginRegistrant.swift": [1630946604, 182817024]

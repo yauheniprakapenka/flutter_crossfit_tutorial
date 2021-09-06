@@ -1,1 +1,9 @@
-# flutter_crossfit_tutorial
+# flutter_testing
+
+Небольшая история как новичок спрашивает у тренера про кроссфитнес. 
+
+Демонстрация некоторых моментов из приложения
+<p align="center">
+<img src="demo/video.gif" width=400> 
+</p>
+<br> 
